@@ -1,0 +1,37 @@
+body
+{
+    font-family: "Cedarville Cursive", cursive;
+    font-weight: 400;
+    font-style: normal;
+    background: #defdff;
+}
+
+.header_div
+{
+    background: #fc7ece;
+    color: #9ce0ff;
+}
+
+.main_div
+{
+    color: #c95eff;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: normal;
+}
+
+button
+{
+    margin-top: 20px;
+}
+
+.copy_right_footer
+{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: #9ce0ff;
+    text-align: center;
+    text-shadow: 1px 2px #aba4a4;
+}
